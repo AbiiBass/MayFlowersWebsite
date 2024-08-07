@@ -1,0 +1,124 @@
+
+/* CSS */
+#Tamil{
+    display: block;
+}
+
+#English{
+    display: none;
+}
+
+
+/* LANGUAGES */
+#tl_Texts1{display: none;}
+#el_Texts1{display: block;}
+#tl_Texts2{display: none;}
+#el_Texts2{display: block;}
+#tl_Texts3{display: none;}
+#el_Texts3{display: block;}
+#tl_Texts4{display: none;}
+#el_Texts4{display: block;}
+#tl_Texts5{display: none;}
+#el_Texts5{display: block;}
+#tl_Texts6{display: none;}
+#el_Texts6{display: block;}
+#tl_Texts7{display: none;}
+#el_Texts7{display: block;}
+#tl_Texts8{display: none;}
+#el_Texts8{display: block;}
+#tl_Texts9{display: none;}
+#el_Texts9{display: block;}
+#tl_Texts10{display: none;}
+#el_Texts10{display: block;}
+#tl_Texts11{display: none;}
+#el_Texts11{display: block;}
+#tl_Texts12{display: none;}
+#el_Texts12{display: block;}
+#tl_Texts13{display: none;}
+#el_Texts13{display: block;}
+#tl_Texts14{display: none;}
+#el_Texts14{display: block;}
+#tl_Texts15{display: none;}
+#el_Texts15{display: block;}
+#tl_Texts16{display: none;}
+#el_Texts16{display: block;}
+#tl_Texts17{display: none;}
+#el_Texts17{display: block;}
+#tl_Texts18{display: none;}
+#el_Texts18{display: block;}
+#tl_Texts19{display: none;}
+#el_Texts19{display: block;}
+#tl_Texts20{display: none;}
+#el_Texts20{display: block;}
+#tl_Texts21{display: none;}
+#el_Texts21{display: block;}
+#tl_Texts22{display: none;}
+#el_Texts22{display: block;}
+#tl_Texts23{display: none;}
+#el_Texts23{display: block;}
+
+#tl_Texts28{display: none;}
+#el_Texts28{display: block;}
+#tl_Texts29{display: none;}
+#el_Texts29{display: block;}
+#tl_Texts30{display: none;}
+#el_Texts30{display: block;}
+
+
+/* ------------------------------------------ */
+
+#portfolio #tl_Texts24{display: none;}
+#portfolio #el_Texts24{display: block;}
+
+#portfolio #tl_Texts25{display: none;}
+#portfolio #el_Texts25{display: block;}
+
+#portfolio #tl_Texts26{display: none;}
+#portfolio #el_Texts26{display: block;}
+
+#portfolio #tl_Texts27{display: none;}
+#portfolio #el_Texts27{display: block;}
+
+
+
+
+/* --------- */
+
+
+.button-8 {
+  background-color: #f4e1ea;
+  border-radius: 3px;
+  border: 1px solid #c77a9b;
+  box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #9d395f;
+  display: inline-block;
+
+  line-height: 1.15385;
+
+  outline: none;
+
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.button-8:hover,
+.button-8:focus {
+  background-color: #eab3dc;
+  color: #772c58;
+}
+
+/* .button-8:focus {
+  box-shadow: 0 0 0 4px rgba(255, 0, 123, 0.15);
+} */
+
+.button-8:active {
+  background-color: #e4a0ce;
+  box-shadow: none;
+  color: #772c55;
+}
